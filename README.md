@@ -153,6 +153,14 @@ Found this useful? ⭐ Star the repo and connect:
 Single-file skill implementing Anthropic's three hallucination reduction techniques:
 admit uncertainty, extract quotes before analysis, cite every claim with self-audit.
 
+## Related Repos
+
+- [claude-code-skills](https://github.com/arturseo-geo/claude-code-skills) — All 17 skills in one collection
+- [seo-geo-skill](https://github.com/arturseo-geo/seo-geo-skill) — SEO & GEO optimisation skill
+- [content-pipeline-skill](https://github.com/arturseo-geo/content-pipeline-skill) — 7-agent content pipeline with GEO Quality Gate
+- [research-skill](https://github.com/arturseo-geo/research-skill) — Deep competitor intel and market research
+
+
 ## Licence
 
 MIT — see LICENSE
